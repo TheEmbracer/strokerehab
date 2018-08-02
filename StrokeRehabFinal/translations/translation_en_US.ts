@@ -124,6 +124,17 @@ of 3. Touch my hand to begin.</translation>
             <comment>Text</comment>
             <translation type="obsolete">Before we start, I need to advise you that if you are feeling any sudden pain during this exercise program, please stop immediatly. I want to take care of you, not break you</translation>
         </message>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Now for the fun part, picking the exercises. Each row on my tablet have exercises for you to choose. Pick 2 from each row and leave 1 blank. When you are done, touch my head.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Now for the fun part, picking the exercises. Each row on my tablet have exercises for you to choose. Pick 2 from each row and leave 1 blank. When you are done, touch my head.</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Intro/AskForSmile</name>

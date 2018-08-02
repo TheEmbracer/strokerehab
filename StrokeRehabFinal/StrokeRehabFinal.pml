@@ -5,12 +5,14 @@
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="websiteCSS" src="html/websiteCSS.css" />
+        <File name="index" src="html/index.html" />
+        <File name="logo" src="html/logo.png" />
+        <File name="TestGigImg" src="html/1.jpg" />
+    </Resources>
     <Topics />
-    <IgnoredPaths>
-        <Path src="html" />
-        <Path src="html/vid1.mp4" />
-    </IgnoredPaths>
+    <IgnoredPaths />
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
     </Translations>
