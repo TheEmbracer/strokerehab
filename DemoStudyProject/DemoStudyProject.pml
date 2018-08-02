@@ -11,8 +11,11 @@
         <File name="three" src="html/three.jpg" />
         <File name="two" src="html/two.jpg" />
         <File name="zero" src="html/zero.jpg" />
-        <File name="ArmToSide" src="html/ArmToSide.gif" />
-        <File name="TotalArmStretch" src="html/TotalArmStretch.gif" />
+        <File name="ArmToSide" src="html/ArmToSide.png" />
+        <File name="TotalArmStretch" src="html/TotalArmStretch.png" />
+        <File name="graph" src="html/graph.png" />
+        <File name="end" src="html/end.jpg" />
+        <File name="hwu" src="html/hwu.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
